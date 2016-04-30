@@ -1,0 +1,1 @@
+content of this directory was deleted via 'rm -r my_folder' as per the instructions in the preparations section of the book
