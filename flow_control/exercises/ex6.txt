@@ -1,0 +1,5 @@
+You get that error message because there are not enough
+'end' keywords to both close the if-statement and close the method definition.  We are missing one.
+
+The wasy to fix it is to add 'end' to the line after
+  puts "nope"
