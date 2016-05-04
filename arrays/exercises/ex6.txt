@@ -1,0 +1,5 @@
+The problem is that the array method uses
+integers as the index.  It cannot use a string
+as the index.  The way to fix it is to instead type:
+
+names[3] = 'jody'
