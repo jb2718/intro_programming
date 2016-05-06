@@ -1,0 +1,7 @@
+The difference is that  {:x=>"some value"} 
+resolves to {:x=>"some value"}
+
+{x => "some value"} resolves to 
+{"hi there"=>"some value"}
+
+:x is a symbol and x is a variable that contains a string "hi there"
