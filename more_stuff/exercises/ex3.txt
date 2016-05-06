@@ -1,0 +1,3 @@
+Exception handling is defining a course of action in the event a piece of code causes an error.
+
+It solves the problem of the entire program being stopped due to an error.  It gracefully handles the error so the program can continue running

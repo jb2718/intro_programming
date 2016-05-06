@@ -1,0 +1,2 @@
+It will not print anything to the screen because the
+block was not called but it will return a Proc object
